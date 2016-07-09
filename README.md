@@ -1,4 +1,4 @@
-"P2P Proxies Network - IP Authorizer
+#P2P Proxies Network - IP Authorizer
 
 Utils for autorize your IP in your rev.proxies.online account
 
