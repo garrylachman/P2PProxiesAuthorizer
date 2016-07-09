@@ -4,6 +4,7 @@ Utils for autorize your IP in your rev.proxies.online account
 
 Require Python 3.5 +
 
+https://rev.proxies.online
 
 install:
 ```
